@@ -3,7 +3,9 @@ Avaliable workspace
 
 1.解压压缩文件
 cd ~
+
 mkdir test_ws
+
 cd test_ws
 tar --strip-components=1 -xzvf ~/dev_ws.tar.gz
 
